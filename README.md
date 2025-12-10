@@ -1,6 +1,6 @@
 # Truck Frame Performance Prediction Code
 
-This repository contains the source code for the paper "**Truck Frame Performance Prediction Using Adaptive Fusion of Multi-Source Data and Residual Attention-based Multi-Task Learning**".
+This repository contains the source code for the paper "**Performance Prediction of Truck Frames Using Multi-Fidelity Data Fusion and Residual Attention Multi-Task Learning**".
 
 Please run `main.py` first to train the model, then run `explainability.py` for SHAP analysis.
 
