@@ -2,7 +2,7 @@
 
 This repository contains the source code for the paper "**Truck Frame Performance Prediction Using Adaptive Fusion of Multi-Source Data and Residual Attention-based Multi-Task Learning**".
 
-Please run main.py first to train the model, then run explainability.py for SHAP analysis.
+Please run `main.py` first to train the model, then run `explainability.py` for SHAP analysis.
 
 ## ⚠️ Note on Data Privacy and Reproducibility
 
